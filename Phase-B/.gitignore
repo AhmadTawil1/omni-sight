@@ -1,6 +1,0 @@
-# Datasets and model weights - never commit these
-data/*
-!data/.gitkeep
-models/*
-!models/.gitkeep
-instructions.md
